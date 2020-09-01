@@ -15,7 +15,7 @@ Performances obtained from the [MSMARCO Document Ranking task Test Set Leaderboa
 | Run Name       | MRR@100 |
 | -------------- | ------- | 
 | uogTrBaseDPH   | 0.2298  |
-| uogTrBaseDPHQ  |         |
+| uogTrBaseDPHQ  | 0.2186  |
 
 ## Reproducibility
 
