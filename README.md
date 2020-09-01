@@ -1,10 +1,21 @@
 # PyTerrier MSMARCO Document Ranking Task Leaderboard Runs
 
-This repository contains notebooks to reproduce run submissions made to the MSMARCO Document Ranking Task Leaderboard.
+This repository contains notebooks to reproduce run submissions made to the MSMARCO Document Ranking Task Leaderboard using [PyTerrier](https://github.com/terrier-org/pyterrier).
 
 ## Submissions
 
 1. [uogTrBaseDPH](uogTrBaseDPH.ipynb) - DPH applied on a basic index.
+
+2. [uogTrBaseDPHQ](uogTrBaseDPHQ.ipynb) - DPH applied on a basic index, applying Bo1 DFR query expansion.
+
+## Performances
+
+Performances obtained from the [MSMARCO Document Ranking task Test Set Leaderboard](https://microsoft.github.io/msmarco/).
+
+| Run Name       | MRR@100 |
+| -------------- | ------- | 
+| uogTrBaseDPH   | 0.2298  |
+| uogTrBaseDPHQ  |         |
 
 ## Reproducibility
 
