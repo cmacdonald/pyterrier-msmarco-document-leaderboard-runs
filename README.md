@@ -4,9 +4,9 @@ This repository contains notebooks to reproduce run submissions made to the MSMA
 
 ## Submissions
 
-1. [uogTrBaseDPH](uogTrBaseDPH.ipynb) - DPH applied on a basic index.
+1. [uogTrBaseDPH](uogTrBaseDPH.ipynb) - DPH applied on a basic index. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmacdonald/pyterrier-msmarco-document-leaderboard-runs/blob/master/uogTrBaseDPH.ipynb)
 
-2. [uogTrBaseDPHQ](uogTrBaseDPHQ.ipynb) - DPH applied on a basic index, applying Bo1 DFR query expansion.
+2. [uogTrBaseDPHQ](uogTrBaseDPHQ.ipynb) - DPH applied on a basic index, applying Bo1 DFR query expansion. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmacdonald/pyterrier-msmarco-document-leaderboard-runs/blob/master/uogTrBaseDPHQ.ipynb)
 
 ## Performances
 
